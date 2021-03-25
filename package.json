@@ -13,6 +13,6 @@
     "test": "jest e2e-tests"
   },
   "dependencies": {
-    "superagent": "^5.2.2"
+    "superagent": "^5.3.1"
   }
 }
